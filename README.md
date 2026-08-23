@@ -1,5 +1,5 @@
 
-# macOS Screen Recorder
+# Screen Recorder
 
 A lightweight, functional, and minimalist desktop screen recording application for macOS built with **Python**, **PyQt6**, **mss**, and **OpenCV**.
 
